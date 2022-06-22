@@ -1,6 +1,6 @@
 <p align="center">
     <img 
-      src="https://www.gifcen.com/wp-content/uploads/2021/04/minecraft-gif-2.gif"
+      src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif"
       align="center" 
       height="200" 
       width="auto" 
