@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/marcela-torro-b98a50237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   </p>
   
-  ### Estudante de programação da FIAP
+  ### 📚 • Estudante de programação da FIAP
   
   ### Uso: 
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
