@@ -1,6 +1,6 @@
 <p align="center">
     <img 
-      src="/pato.gif"
+      src="https://i.gifer.com/fyrW.gif"
       align="center" 
       height="200" 
       width="auto" 
@@ -31,4 +31,3 @@
   ### :zap: Github Stats
     
   <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Maahtoro&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
-
