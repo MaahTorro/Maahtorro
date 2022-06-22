@@ -10,7 +10,7 @@
     <h2 align="center"><b>Oii, sou a Maah ☕</b></h2>
   </p>
   <p>
-    <h4 align="center"><b>"☕👽"</b></h4>
+    <h4 align="center"><b>"I an loking for a (blow)job"</b></h4>
   </p>
   <p align="center">
   <br>
