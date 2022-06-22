@@ -1,6 +1,6 @@
 <p align="center">
     <img 
-      src="https://data.whicdn.com/images/314985289/original.gif"
+      src="https://www.gifcen.com/wp-content/uploads/2021/04/minecraft-gif-2.gif"
       align="center" 
       height="200" 
       width="auto" 
