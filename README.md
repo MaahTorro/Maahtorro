@@ -7,7 +7,7 @@
     >
   <p/>
   <p>
-    <h1 align="center"><b>Meu nome é Maah ☕</b></h1>
+    <h1 align="center"><b>Oii, sou a Maah ☕</b></h1>
   </p>
   <p>
     <h4 align="center"><b>"☕👽"</b></h4>
