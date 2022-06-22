@@ -2,7 +2,7 @@
     <img 
       src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif"
       align="center" 
-      height="100" 
+      height="300" 
       width="auto" 
     >
   <p/>
