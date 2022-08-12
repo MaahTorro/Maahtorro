@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/marcela-torro-b98a50237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://wa.me/11974106742"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" /></a>&nbsp;
   <a href="https://discordapp.com/users/929125414385905705"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>&nbsp;
+   <a href="mailto:marcelatorro6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="discord" /></a>&nbsp;
 
   </p>
   
