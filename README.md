@@ -1,10 +1,4 @@
 <p align="center">
-    <img 
-      src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif"
-      align="center" 
-      height="300" 
-      width="auto" 
-    >
   <p/>
   <p>
     <h2 align="center"><b>Oii, sou a Maah ☕</b></h2>
