@@ -28,10 +28,10 @@
  
  <br>
   
-  <img height="30" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img height="30" src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <code><img height="30" src="https://aleen42.github.io/badges/src/photoshop.svg"></code>
+  <code><img height="30" src="https://aleen42.github.io/badges/src/illustrator.svg"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
   
   ### :zap: Github Stats
     
