@@ -35,6 +35,7 @@
   ### :zap: Github Stats
     
   <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Maahtorro&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+  <img src="https://github-readme-stats-sumanth-talluri.vercel.app/api/top-langs/?username=Maahtorro&show_icons=true&hide_border=true&theme=radical&layout=compact"  width="37%">
   
   
    <div> 
