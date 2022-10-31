@@ -36,6 +36,8 @@
     
   <img src="https://github-readme-stats-sumanth-talluri.vercel.app/api/top-langs/?username=Maahtorro&show_icons=true&hide_border=true&theme=radical&layout=compact" width="37%">
   
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MaahTorro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
    <div> 
  
