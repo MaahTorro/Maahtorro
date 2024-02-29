@@ -39,9 +39,3 @@
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaahTorro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
-   <div> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-</div>
- 
